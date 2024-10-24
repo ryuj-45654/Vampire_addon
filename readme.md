@@ -1,0 +1,16 @@
+# Vampire Addon for FiveM
+
+Este addon añade características vampíricas a los jugadores en FiveM. Los jugadores pueden transformarse en vampiros, obteniendo habilidades especiales como velocidad aumentada, regeneración de salud y visión nocturna.
+
+### Copyright
+Este addon es propiedad de **Ryuj Darkness**. Todos los derechos reservados. 
+
+### Licencia
+No se permite la redistribución, modificación o uso comercial de este addon sin el permiso expreso de **Ryuj Darkness**. Cualquier uso no autorizado se considera una violación de derechos de autor y será perseguido legalmente.
+
+### Instrucciones:
+1. Instala el addon en la carpeta `resources/` de tu servidor.
+2. Añade `ensure vampire_addon` a tu archivo `server.cfg` para activar el addon.
+3. Puedes configurar las habilidades de los vampiros en el archivo `config.lua`.
+
+### ensure vampire_addon
