@@ -24,5 +24,3 @@ Sistema de Desgaste:
 Los vampiros deben gestionar su inventario de sangre, ya que la falta de este recurso provocará una disminución gradual de su salud.
 Instalación y Configuración
 Este addon es fácil de instalar y configurar. Solo necesitas añadirlo a tu carpeta de recursos en tu servidor FiveM y asegurarlo en el archivo server.cfg. Las configuraciones de habilidades y características se pueden ajustar en el archivo config.lua según las necesidades de tu servidor.
-
-Puedes usar esta descripción en tu archivo README.md o en cualquier presentación que necesites. Si deseas añadir más detalles o hacer ajustes, házmelo saber.
